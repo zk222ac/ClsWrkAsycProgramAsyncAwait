@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClsWrkAsycProgram", "ClsWrkAsycProgram.csproj", "{D3E9BCFD-D04B-4FC4-8C3F-787F8C501CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3E9BCFD-D04B-4FC4-8C3F-787F8C501CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E9BCFD-D04B-4FC4-8C3F-787F8C501CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E9BCFD-D04B-4FC4-8C3F-787F8C501CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E9BCFD-D04B-4FC4-8C3F-787F8C501CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {653DCFF6-25C4-4027-B638-B3550016291D}
+	EndGlobalSection
+EndGlobal
